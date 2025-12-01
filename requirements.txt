@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+
+# LangChain Core + Community integrations
+langchain-core
+langchain-community
+
+# LangChain integrations for providers
+langchain-groq
+langchain-openai
+langchain-google-genai
+langchain-ollama
